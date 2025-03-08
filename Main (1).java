@@ -1,5 +1,4 @@
-//Main.java
-//Parnika Jain, 087, B1
+
 class Main {
     public static void main(String[] args) {
         UserInput userInput = new UserInput();
